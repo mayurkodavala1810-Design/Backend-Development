@@ -1,2 +1,2 @@
 # Backend-Development
-Python, FastAPI, DJNAGO, Database, 
+Python, FastAPI 
