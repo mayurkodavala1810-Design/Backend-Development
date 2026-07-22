@@ -1,0 +1,32 @@
+num = [1,55,45,12,54,98,50,78,63,21]
+# n = len(num)
+# total = 0
+# for i in range(0,n):
+#     total = total + num[i]
+# print(total)
+
+# num = [1,55,45,12,54,98,50,78,63,21]
+# n = len(num)
+
+# for i in range(0,n):
+#     print(num[i], end=" ")
+
+# num = [1,55,45,12,54,98,50,78,63,21]
+# n = len(num)
+
+# for i in range(n-1, -1, -1):
+#     print(num[i], end=" ")
+
+num = [1,55,45,12,54,98,50,78,63,21]
+n = len(num)
+
+for index, value in enumerate(num):
+    if value % 2 == 0:
+        print(index)
+    # print(f"Index iof {index}, and Value of {value}")
+
+
+
+
+
+
